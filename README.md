@@ -4,7 +4,10 @@ Menyimpan resep makanan favorite dan _share_ ke dalam komunitas.
 
 > just ot learning not pruduction
 
-![](https://github.com/MuhamadAndre10/receipt-app/blob/main/docs/img/home.png?raw=true | width=200)
+<p align="center" width="100%">
+  <img src="https://github.com/MuhamadAndre10/receipt-app/blob/main/docs/img/home.png?raw=true" alt="image" width="50%" height="auto" style="text-align: center">
+</p>
+
 
 ## Apa saja yang di pelajari?
 
