@@ -2,7 +2,9 @@
 
 Menyimpan resep makanan favorite dan _share_ ke dalam komunitas.
 
-> Projek latihan
+> just ot learning not pruduction
+
+[img](https://github.com/MuhamadAndre10/receipt-app/blob/main/docs/img/home.png?raw=true)
 
 ## Apa saja yang di pelajari?
 
